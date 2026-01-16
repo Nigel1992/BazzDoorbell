@@ -1,3 +1,7 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
+
+> **Support this project* All donations go towards your chosen charity. You can pick any charity you'd like, and 5% is retained for Ko-Fi development costs. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
+
 # Bazz Wi-Fi Doorbell/Camera Penetration test and customization
 ##### Introduction
 Following the work I did with another wifi camera (https://github.com/guino/WR301CH1KW) I decided to tackle another 'closed' camera I already had installed this year.
@@ -297,4 +301,3 @@ With the video recordings being saved (downloaded) onto my NFS share and having 
 
 See this link for a No-Programmer, No-UART, No-Open SD card-only solution:
 https://github.com/guino/BazzDoorbell/issues/2
-
